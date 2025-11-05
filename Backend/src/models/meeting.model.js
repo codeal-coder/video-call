@@ -1,5 +1,5 @@
 import mongoose, { Schema } from "mongoose";
-import { data } from "react-router-dom";
+
 
 const meetingSchema = new Schema({
     user_id:{
